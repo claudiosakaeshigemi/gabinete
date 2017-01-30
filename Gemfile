@@ -32,6 +32,23 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#instalada por mim
+# devise 4.2.0
+# Flexible authentication solution for Rails with Warden
+gem 'devise', '~> 4.2'
+# haml 4.0.7
+# Haml (HTML Abstraction Markup Language) is a layer on top of HTML or XML that's designed
+# to express the structure of documents in a non-repetitive, elegant, and easy way by
+# using indentation rather than closing tags and allowing Ruby to be embedded with ease.
+#  It was originally envisioned as a plugin for Ruby on Rails,
+#  but it can function as a stand-alone templating engine.
+gem 'haml', '~> 4.0', '>= 4.0.7'
+# simple_form 3.4.0
+# Forms made easy!
+gem 'simple_form', '~> 3.4'
+
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
